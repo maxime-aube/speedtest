@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/maxime-aube/speedtest#readme",
   "dependencies": {
+    "chart.js": "^3.7.1",
     "cron-job-manager": "^2.2.1",
     "dotenv": "^16.0.1",
     "winston": "^3.7.2",
