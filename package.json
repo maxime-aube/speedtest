@@ -24,9 +24,12 @@
   },
   "homepage": "https://github.com/maxime-aube/speedtest#readme",
   "dependencies": {
+    "cron-job-manager": "^2.2.1",
     "dotenv": "^16.0.1",
-    "nodemon": "^2.0.16",
     "winston": "^3.7.2",
     "winston-daily-rotate-file": "^4.6.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
   }
 }
