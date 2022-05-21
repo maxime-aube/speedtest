@@ -1,0 +1,24 @@
+{
+  "name": "speedtest",
+  "version": "1.0.0",
+  "description": "runs speetests periodically to provide metrics on your internet connection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxime-aube/speedtest.git"
+  },
+  "keywords": [
+    "speedtest",
+    "node",
+    "nodejs"
+  ],
+  "author": "maximob",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxime-aube/speedtest/issues"
+  },
+  "homepage": "https://github.com/maxime-aube/speedtest#readme"
+}
