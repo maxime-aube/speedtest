@@ -14,6 +14,7 @@ const server = http.createServer(app);
 app.set('view engine', 'ejs');
 
 // définition des routes
+router.use('/cdn', express.static('./dist', ));
 router.get('/speedtest/view', (req, res) => {
     res.render('speedtest.ejs', {
         env: env

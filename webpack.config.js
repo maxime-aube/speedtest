@@ -18,7 +18,7 @@ const config = {
     plugins: [],
     output: {
         filename: '[name].js',
-        path: path.join(path.dirname(fileURLToPath(import.meta.url)), './dist'),
+        path: path.join(path.dirname(fileURLToPath(import.meta.url)), './dist/js'),
         clean: false
     },
     module: {
