@@ -1,0 +1,22 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>speedtest</title>
+</head>
+<body>
+    <main>
+        <section>
+            <div>
+                <canvas id="chart" width="400" height="400" aria-label="Graphique récapitulatif des speedtests" role="img">
+                    <p>Graphique récapitulatif des speedtest</p>
+                </canvas>
+            </div>
+        </section>
+    </main>
+
+    <script><%- include('../dist/speedtest.js'); %></script>
+</body>
+</html>
