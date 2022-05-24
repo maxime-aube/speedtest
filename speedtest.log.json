@@ -1169,4 +1169,3 @@
 	  {"download": 682397527.315206, "upload": 407463283.04944503, "ping": 9.325, "server": {"url": "http://ivry.testdebit.info:8080/speedtest/upload.php", "lat": "48.8131", "lon": "2.3882", "name": "Ivry-sur-Seine", "country": "France", "cc": "FR", "sponsor": "Hivane NetWork Cubic", "id": "49781", "host": "ivry.testdebit.info:8080", "d": 200.9698049991502, "latency": 9.325}, "timestamp": "2022-05-21T17:45:02.259583Z", "bytes_sent": 151519232, "bytes_received": 409373932, "share": null, "client": {"ip": "91.165.61.141", "lat": "47.3983", "lon": "0.7037", "isp": "Free SAS", "isprating": "3.7", "rating": "0", "ispdlavg": "0", "ispulavg": "0", "loggedin": "0", "country": "FR"}}
 	]
   }
-  
